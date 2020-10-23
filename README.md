@@ -1,4 +1,4 @@
-### Hi there 👋
+<font size="1"> Hi there 👋 </font>
 ### My name is Rija Akhal Hilmi. I am 20 years old. I am a 4th year Aerospace Engineering student and I am currently learning to solve coding problems. I recently just got into the machine learning world and have been interested ever since. My go - to coding language when I try to make my ideas come true quick is Python!
 ### Beside programming, I like to:      
 ### Travel! ✈️     

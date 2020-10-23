@@ -1,10 +1,10 @@
 <font size="1"> Hi there 👋 
-### My name is Rija Akhal Hilmi. I am 20 years old. I am a 4th year Aerospace Engineering student and I am currently learning to solve coding problems. I recently just got into the machine learning world and have been interested ever since. My go - to coding language when I try to make my ideas come true quick is Python!
-### Beside programming, I like to:      
-### Travel! ✈️     
-### Play the guitar and sing 🎶     
-### Play video games :video_game:  
-### You can find me on LinkedIn: https://www.linkedin.com/in/rijahilmi/
+My name is Rija Akhal Hilmi. I am 20 years old. I am a 4th year Aerospace Engineering student and I am currently learning to solve coding problems. I recently just got into the machine learning world and have been interested ever since. My go - to coding language when I try to make my ideas come true quick is Python!
+Beside programming, I like to:      
+Travel! ✈️     
+Play the guitar and sing 🎶     
+Play video games :video_game:  
+You can find me on LinkedIn: https://www.linkedin.com/in/rijahilmi/
   </font>
 <!--
 **rijahilmi/rijahilmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
